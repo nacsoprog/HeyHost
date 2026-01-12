@@ -10,8 +10,8 @@
 
 
 ## Screenshots
-![Gallery 1](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/153/815/datas/gallery.jpg)
 ![Gallery 2](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/153/816/datas/gallery.jpg)
+<img width="825" height="812" alt="image" src="https://github.com/user-attachments/assets/10a9fac3-d75c-45fb-8a85-4bcb10873caa" />
 ![Gallery 3](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/153/814/datas/gallery.jpg)
 
 ## Why Hey Host?
